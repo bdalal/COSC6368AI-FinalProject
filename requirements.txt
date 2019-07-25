@@ -1,0 +1,10 @@
+pandas>=0.24.2
+numpy>=1.16.3
+scikit-learn>=0.20.3
+gensim>=3.7.1
+nltk>=3.4
+tensorflow-gpu>=1.13.1
+Keras>=2.2.4
+scipy>=1.2.1
+glove-python>=0.1.0
+matplotlib>=3.1.0
