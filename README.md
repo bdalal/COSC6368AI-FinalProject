@@ -9,7 +9,7 @@ Environment:
 * It is strongly suggested that the code be run on a system with Nvidia GPU support, as otherwise POS tag generation and tensorflow make take a long time to run
 * _Note: Tensorflow-GPU requires CUDA and preferably cuDNN support to run effectively. These libraries need to be installed separately if not already present on the system. Alternatively, one can install the CPU version of tensorflow._
 
-Notebook:
+Notebooks:
 * `generate_pos_tags_glove.ipynb`: code to generate the glove representations for POS tags
 * `visualize_glove_vectors.ipynb`: code to visualize the glove representations for POS tags
 * `rnn_pos.ipynb`: code to train a recurrent model on POS embeddings
